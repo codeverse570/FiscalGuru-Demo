@@ -1,0 +1,1 @@
+FiscalGuru is a platform that connects financial advisors with clients using AI-based matching. The application is built using Flutter for the frontend and Node.js for the backend, with secure document storage and role-based authentication. The system uses AI APIs to recommend suitable advisors based on user profiles, financial goals, and preferences.
