@@ -1,0 +1,9 @@
+[submodule "fiscalGuruAdvisorApp"]
+	path = fiscalGuruAdvisorApp
+	url = https://github.com/codeverse570/fiscalGuruAdvisorApp.git
+[submodule "FiscalGuruApp"]
+	path = FiscalGuruApp
+	url = https://github.com/codeverse570/fiscalGuruApp.git
+[submodule "fiscalGuruBackend"]
+	path = fiscalGuruBackend
+	url = https://github.com/codeverse570/fiscalGuru.git
